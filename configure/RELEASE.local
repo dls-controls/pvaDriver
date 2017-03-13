@@ -1,0 +1,7 @@
+ADCORE = $(WORK)/ADCore
+ASYN = $(WORK)/asyn
+
+PVACCESSCPP       = $(SUPPORT)/pvAccessCPP/4-1-3
+PVDATABASECPP     = $(SUPPORT)/pvDatabaseCPP/4-1-1
+PVDATACPP         = $(SUPPORT)/pvDataCPP/5-0-4
+NORMATIVETYPESCPP = $(SUPPORT)/normativeTypesCPP/5-0-2
