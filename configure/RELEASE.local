@@ -1,5 +1,5 @@
-ADCORE = $(WORK)/ADCore
-ASYN = $(WORK)/asyn
+ADCORE = $(SUPPORT)/ADCore/2-6dls1
+ASYN = $(SUPPORT)/asyn/4-31
 
 PVACCESSCPP       = $(SUPPORT)/pvAccessCPP/4-1-3
 PVDATABASECPP     = $(SUPPORT)/pvDatabaseCPP/4-1-1
