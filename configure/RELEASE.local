@@ -1,4 +1,4 @@
-ADCORE = $(SUPPORT)/ADCore/2-6dls3
+ADCORE = $(SUPPORT)/ADCore/2-6dls4
 ASYN = $(SUPPORT)/asyn/4-31
 
 PVACCESSCPP       = $(SUPPORT)/pvAccessCPP/4-1-3
